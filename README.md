@@ -1,6 +1,6 @@
-## Dwella.ai – Property & Tenant Management Platform
+## Dwella – Property & Tenant Management Platform
 
-Dwella.ai is a **full-stack property and tenant management web application** built with Next.js, TypeScript, and MongoDB. It provides authentication, role-based dashboards (Landlord / Tenant), tenant and handyman management, issue tracking, notifications, and analytics.
+Dwella is a **full-stack property and tenant management web application** built with Next.js, TypeScript, and MongoDB. It provides authentication, role-based dashboards (Landlord / Tenant), tenant and handyman management, issue tracking, notifications, and analytics.
 
 This README covers:
 - **What this project does** (current functionality)
@@ -93,16 +93,16 @@ Install on your machine:
 **Windows (PowerShell):**
 ```powershell
 git clone <YOUR_REPO_URL>
-cd Dwella.ai-webapp-1
+cd Dwella-webapp-1
 ```
 
 **macOS (Terminal):**
 ```bash
 git clone <YOUR_REPO_URL>
-cd Dwella.ai-webapp-1
+cd Dwella-webapp-1
 ```
 
-Replace `<YOUR_REPO_URL>` with your actual repository URL (e.g. `https://github.com/your-org/Dwella.ai-webapp-1.git`). Use the folder name that was created by `git clone` if it differs from `Dwella.ai-webapp-1`.
+Replace `<YOUR_REPO_URL>` with your actual repository URL (e.g. `https://github.com/your-org/Dwella-webapp-1.git`). Use the folder name that was created by `git clone` if it differs from `Dwella-webapp-1`.
 
 ### Step 3: Install Dependencies
 
